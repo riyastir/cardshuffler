@@ -1,8 +1,8 @@
 # Playing Card Shuffler Laravel API
 
- Author 	: Mohamed Riyas KP
- Language	: PHP
- Framework 	: Laravel 6
+ Author 	: Mohamed Riyas KP.
+ Language	: PHP.
+ Framework 	: Laravel 6.
 
 ## Server Requirements as per Laravel 6
 
