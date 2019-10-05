@@ -24,7 +24,7 @@
 Clone the git `git Clone https://github.com/riyastir/cardshuffler.git`
 
 ### Step 2
-Navigate to the project directory `cd cardShufflerApp`
+Navigate to the project directory `cd cardshuffler`
 
 ### Step 3
 Install the Dependencies  `composer update`
